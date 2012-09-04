@@ -1,0 +1,3 @@
+Simple rule based implementation of noun pluralization in Python.
+
+Some edge cases still need to be addressed.
